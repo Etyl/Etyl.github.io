@@ -1,0 +1,33 @@
+.table-challenges table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 0 ;
+    font-size: 1.2em;
+    font-family: Cascadia Code SemiBold;
+    color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 120px rgba(120, 1, 255, 0.15);
+}
+      
+.table-challenges table th, .table-challenges table td {
+    padding: 12px 15px;
+    text-align: center;
+}
+
+.table-challenges table th {
+    background-color: #550b5a;
+    color: #ffffff;
+}
+
+.table-challenges table tr:nth-child(even) {
+    background-color: #0f1221;
+}
+
+.table-challenges table tr:hover {
+    background-color: #000000;
+}
+
+.table-challenges table td {
+    border-bottom: 1px solid #ffffff;
+}

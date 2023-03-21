@@ -1,0 +1,28 @@
+{
+  "name": "it-s-raining-bed",
+  "homepage": "https://it-s-raining-bed.github.io/",
+  "version": "0.1.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "aos": "^3.0.0-beta.6",
+    "esbuild": "^0.17.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-grid-gallery": "^1.0.0",
+    "react-router-dom": "^6.8.1",
+    "react-transition-group": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.13",
+    "gh-pages": "^5.0.0",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.6",
+    "vite": "^4.1.1"
+  }
+}
